@@ -1,0 +1,16 @@
+2023-05-23 10:30:36.4463||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-23 10:30:36.6021||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-23 10:30:36.6169||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-23 12:08:22.8916|Default|00-a327f689a4c9ebfa2adc03bdb714e142-85f8c1fb20d5403c-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-23 13:03:21.1494||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-23 13:03:21.2733||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-23 13:03:21.2836||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-23 13:38:17.3437|Default|00-d1211195986979e14763d9faada28ca6-ec33417ba4d368db-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-23 13:46:59.2702|Default|00-835cc5bee0196337b0226ca8d37579a1-994df2c519d9bb70-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-23 13:50:19.2394|Default|00-575a9ef8e5caa6fce644cedf39c46e80-d97290801110ad75-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-23 21:08:25.8279||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-23 21:08:26.0361||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-23 21:08:26.0504||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-23 22:59:37.5708||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-23 22:59:37.6314||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-23 22:59:37.6367||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 

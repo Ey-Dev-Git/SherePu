@@ -1,0 +1,267 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap');
+
+section {
+    font-family: 'Kanit', sans-serif;
+}
+
+.header {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #000000;
+}
+
+
+.subheader {
+    font-size: 1.5rem;
+    font-style: italic;
+    line-height: 1.5rem;
+    margin-bottom: 25px;
+}
+
+.heading {
+    font-size: 3.25rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    margin-bottom: 2rem;
+}
+
+.maptop {
+    margin-top: 85px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+#refChae {
+    font-size: 20px;
+    font-weight: lighter;
+    color: #4D2718;
+}
+
+#chae {
+    text-decoration: none;
+}
+
+@media (max-width: 390px) {
+    #refChae {
+        font-size:12px;
+    }
+}
+
+.imgmap {
+    border-radius: 20px;
+}
+
+
+.mainac {
+    padding-top: 96px;
+    padding-bottom: 96px;
+}
+
+@media (max-width: 390px) {
+    .mainac {
+        padding-top: 45px;
+        padding-bottom: 96px;
+    }
+}
+
+body {
+    background-color: #fcf0de;
+}
+
+.bgmain {
+    padding-top: 3rem;
+    padding-bottom: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 4px #C4C4C4;
+}
+
+@media (max-width: 390px) {
+    .bgmain {
+        box-shadow: none;
+    }
+}
+
+.px-4 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+h2 {
+    font-family: 'Kanit', sans-serif;
+}
+
+p {
+    font-family: 'Kanit', sans-serif;
+}
+
+
+.card-title {
+    font-family: 'Kanit', sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 0;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    color:#212121;
+}
+
+
+.widget-container {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#resttt {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 0;
+    color:#212121;
+}
+
+#dc {
+    font-size: 20px;
+    font-weight: lighter;
+    color: #4D2718;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-top: 24px;
+    padding-bottom: 48px;
+    margin-bottom: 0;
+}
+
+#hostel_tt {
+    font-size: 32px;
+    font-weight: 500;
+    text-align: center;
+    color:#212121;
+}
+
+@media (max-width: 992px) {
+    #hostel_tt {
+        font-size:16px;
+        font-weight:500;
+    }
+}
+
+@media (max-width: 992px) {
+    #dc {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media (max-width: 390px) {
+    .imgmap {
+        width: 344.07px;
+        height: 243px;
+        border-radius: 0;
+    }
+}
+
+@media (max-width: 390px) {
+    #resttt {
+        font-size: 16px;
+        font-weight: 500;
+    }
+}
+
+@media (max-width: 390px) {
+    #dc {
+        font-size: 14px;
+        font-weight: lighter;
+    }
+}
+
+
+.hostelrest {
+    border-radius: 20px !important;
+}
+
+@media (max-width: 390px) {
+    .hostelrest {
+        width: 296px !important;
+        height: 184px !important;
+    }
+}
+
+@media (max-width: 390px) {
+    .card-title {
+        font-size: 15px;
+        font-weight: 500;
+    }
+}
+
+#hrt {
+    font-size: 24px;
+    font-weight: lighter;
+    color:#212121;
+}
+
+@media (max-width: 390px) {
+    #hrt {
+        font-size: 14px;
+        font-weight: 500;
+    }
+}
+
+#dt {
+    font-size: 20px;
+    font-weight: lighter;
+    color: #212121;
+}
+
+@media (max-width: 390px) {
+    #dt {
+        font-size: 12px;
+        font-weight: lighter;
+    }
+}
+
+.modal-body {
+    margin: 48px 96px;
+}
+
+@media (max-width: 390px) {
+    .modal-body {
+        margin: 48px 0px;
+    }
+}
+
+/*.mdc {
+    background-image: url('/Default/picture/wallpaper/nowall.jpg') !important;
+    border-radius: 20px !important;
+}
+*/
+.popup {
+    padding: 0;
+}
+
+
+a {
+    color: #000000;
+    text-decoration: underline;
+}
+
+
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    /*border: 1px solid rgba(0, 0, 0, 0.2);*/
+    border-radius: 20px;
+    box-shadow: 0px 0px 4px 0px #000000;
+    outline: 0;
+}

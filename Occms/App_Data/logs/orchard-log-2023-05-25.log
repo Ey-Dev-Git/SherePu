@@ -1,0 +1,46 @@
+2023-05-25 10:26:33.8269||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-25 10:26:33.9306||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-25 10:26:33.9403||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-25 11:18:41.3639||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-25 11:18:41.4898||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-25 11:18:41.5013||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-25 12:40:45.1436||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-25 12:40:45.2745||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-25 12:40:45.2745||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-25 12:41:32.6218|Default|00-9307cb9ac5184d4aabac8563f403199f-827a9da70c151098-00|20004|Microsoft.EntityFrameworkCore.Database.Connection|ERROR|An error occurred using the connection to database 'ChaesonWebsite' on server 'NP\SQLEXPRESS'. 
+2023-05-25 12:44:13.7722|None|00-de50bde3f300aa9fafaa1bc306fe3bb6-b92b658e26c546ac-00|2|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|ERROR|Connection ID "17654110540097650691", Request ID "40000004-0000-f500-b63f-84710c7967bb": An unhandled exception was thrown by the application. System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.ValidateState(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.WriteAsync(ReadOnlyMemory`1 source, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.InvokeCore(HttpContext context, PathString matchedPath, PathString remainingPath)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()    at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.ValidateState(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.WriteAsync(ReadOnlyMemory`1 source, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.InvokeCore(HttpContext context, PathString matchedPath, PathString remainingPath)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2023-05-25 12:45:09.2542|None|00-88561bf3433a43943e87f470172627ab-b1e19e84df59c51e-00|2|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|ERROR|Connection ID "17870283352276205571", Request ID "40000004-0007-f800-b63f-84710c7967bb": An unhandled exception was thrown by the application. System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.ValidateState(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.WriteAsync(ReadOnlyMemory`1 source, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.InvokeCore(HttpContext context, PathString matchedPath, PathString remainingPath)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()    at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.ValidateState(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpResponseStream.WriteAsync(ReadOnlyMemory`1 source, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.InvokeCore(HttpContext context, PathString matchedPath, PathString remainingPath)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2023-05-25 13:26:03.6129||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-25 13:26:03.8147||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-25 13:26:03.8321||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-25 13:44:42.7015||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-25 13:44:42.8278||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-25 13:44:42.8278||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-25 14:06:00.5532||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-25 14:06:00.7203||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-25 14:06:00.7324||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-25 15:34:19.6732||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-25 15:34:19.7282||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-25 15:34:19.7282||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 

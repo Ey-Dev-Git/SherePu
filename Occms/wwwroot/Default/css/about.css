@@ -1,0 +1,302 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+body {
+    background-color: #fcf0de;
+}
+
+section {
+    font-family: 'Kanit', sans-serif;
+}
+
+
+h2 {
+    font-family: 'Kanit', sans-serif;
+}
+
+.widget-container {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*#contents{
+    margin-top:80px;
+}
+*/
+#about {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 0px 20px 20px 0px;
+    box-shadow: 0px 0px 4px 0px #C4C4C4;
+}
+
+@media (max-width: 390px) {
+    #ccf {
+        padding: 0;
+    }
+}
+
+
+
+#inputbox{
+    margin-right: -10px;
+}
+
+#map{
+    margin-top:96px;
+}
+
+#lnav{
+    
+}
+
+#menunav{
+    padding-right:0;
+}
+/*#form {
+    padding: 0;
+}
+*/
+.btn-primary {
+    color: #fff;
+    background-color: #68473b;
+    border-color: #68473b;
+}
+
+
+.btn-secondary {
+    color: #68473b;
+    background-color: #fff;
+    border-color: #68473b;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #212121;
+    background-color: #fff;
+    font-size:24px;
+    font-weight:500;
+}
+
+@media (max-width: 390px) {
+    .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+        color: #212121;
+        background-color: #fff;
+        font-size: 12px !important;
+        font-weight: 500;
+    }
+}
+
+.nav-pills .nav-link {
+    background: none;
+    color: #212121 !important;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+@media (max-width: 390px) {
+    .nav-pills .nav-link {
+        background: none;
+        color: #68473b;
+        font-size: 12px !important;
+        font-weight: lighter;
+    }
+}
+
+
+
+
+
+#hmbt{
+    display:none;
+}
+
+@media (max-width: 390px) {
+    #hmbt {
+        display: inline-block;
+        text-align:start;
+        margin-top:30px;
+        
+    }
+}
+
+
+
+@media (max-width: 390px) {
+    #menunav {
+        display: none !important;
+    }
+
+}
+
+@media (max-width: 390px) {
+    #about {
+        padding: 5px;
+        margin-top: 0;
+        border-radius:10px;
+    }
+}
+
+@media (max-width: 390px) {
+    #kob {
+        padding: 0;
+    }
+}
+
+@media (max-width: 390px) {
+    #mapspan {
+        width:344px !important;
+        height:620px !important;
+    }
+}
+
+
+.navbar-toggler {
+    border: none;
+    background: transparent;
+}
+
+.navbar-toggler-icon {
+    background-color: #000;
+    width: 20px;
+    height: 2px;
+}
+
+.navbar-toggler-icon::before,
+.navbar-toggler-icon::after {
+    content: '';
+    width: 20px;
+    height: 2px;
+}
+
+.navbar-toggler-icon::before {
+    margin-bottom: 5px;
+}
+
+.navbar-toggler-icon::after {
+    margin-top: 5px;
+}
+
+
+
+
+@media (max-width: 390px) {
+    #btnsc {
+        display:flex !important;
+        justify-content:space-between;
+        padding: 0 25px;
+    }
+}
+
+
+
+
+/*@media (max-width: 390px) {
+    #formc {
+        padding:0 20px;
+    }
+}*/
+
+#tidtor {
+    font-size: 32px;
+    font-weight: 500;
+    color: #212121;
+}
+
+@media (max-width: 390px) {
+    #tidtor {
+        font-size: 16px;
+        font-weight: 500;
+        color: #212121;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 390px) {
+    .content_form {
+        padding: 10px;
+    }
+}
+
+#tet {
+    font-size: 24px;
+    font-weight: lighter;
+    color: #212121;
+}
+
+@media (max-width: 390px) {
+    #tet {
+        font-size: 14px;
+        font-weight: 500;
+        color: #212121;
+    }
+}
+
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #212121;
+    background-color: #fff;
+    font-size: 28px;
+    font-weight: 500;
+    border-radius: 20px 0px 0px 20px;
+    box-shadow: 0px 0px 4px 0px #C4C4C4;
+}
+
+.nav-pills .nav-link {
+    background: none;
+    color: #68473b;
+    font-size: 28px;
+    font-weight: lighter;
+}
+
+#uty {
+    color: #212121;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+@media (max-width: 390px) {
+    #uty {
+        color: #212121;
+        font-size: 16px;
+        font-weight: 500;
+        margin-top:30px;
+        margin-bottom:20px;
+    }
+}
+
+#cdes {
+    color: #212121;
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+@media (max-width: 390px) {
+    #cdes {
+        color: #212121;
+        font-size: 14px;
+        font-weight: lighter;
+    }
+}
+
+#cdes2 {
+    color: #212121;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+@media (max-width: 390px) {
+    #cdes2 {
+        color: #212121;
+        font-size: 12px;
+        font-weight: lighter;
+    }
+}

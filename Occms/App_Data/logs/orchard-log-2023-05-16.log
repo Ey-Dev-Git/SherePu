@@ -1,0 +1,19 @@
+2023-05-16 09:46:00.6669||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-16 09:46:00.8242||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-16 09:46:00.8367||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-16 10:12:30.7690||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-16 10:12:30.8868||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-16 10:12:30.8961||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-16 12:57:57.8471||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-16 12:57:57.9837||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-16 12:57:58.0028||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-16 13:31:25.5780||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-16 13:31:25.6986||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-16 13:31:25.7089||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-16 13:38:34.3205||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-16 13:38:34.4937||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-16 13:38:34.5089||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-16 13:56:26.9068||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-16 13:56:27.0196||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-16 13:56:27.0298||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\BackUp\OCCms_Shere_backup_3\OCCms_Shere\Occms 
+2023-05-16 14:09:11.0169|Default|00-a512451a1590ece3195372f2be4c75c4-41a9b964dd4e8289-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
